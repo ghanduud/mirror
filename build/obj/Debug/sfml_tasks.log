@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\mirror\src\main.cpp(12,81): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\mirror\src\main.cpp(12,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\mirror\src\main.cpp(12,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\mirror\src\main.cpp(12,30): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  sfml_tasks.vcxproj -> C:\Users\omarg\OneDrive\Desktop\mirror\bin\Debug\sfml_tasks.exe
